@@ -28,6 +28,16 @@ def sqrt():
 sqrt()
 ```
 
+
+
+
+
+
+
+
+
+
+
 ## Output:
 ![square](square.png)
 
