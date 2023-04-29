@@ -39,7 +39,8 @@ sqrt()
 
 
 ## Output:
-![square](square.png)
+
+![sqr root of 2 num  xp 2b](https://user-images.githubusercontent.com/118707521/235309573-68185c7d-2271-4c62-8c8c-ffe15188372e.png)
 
 
 ## Result:
