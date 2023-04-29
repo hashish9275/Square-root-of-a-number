@@ -40,7 +40,7 @@ sqrt()
 
 ## Output:
 
-![sqr root of 2 num  xp 2b](https://user-images.githubusercontent.com/118707521/235309573-68185c7d-2271-4c62-8c8c-ffe15188372e.png)
+![sqr root of 2 num xp 2b](https://user-images.githubusercontent.com/118707521/235309768-0b1831f6-63f6-4c2e-9233-38d924ad4202.png)
 
 
 ## Result:
